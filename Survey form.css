@@ -1,0 +1,52 @@
+
+body {  background-image:url(https://img.freepik.com/premium-photo/delicate-yellow-abstract-watercolor-background_3590-82.jpg?w=1380)
+}
+h1 {
+  text-align:center;
+  color:rgb(213, 55, 25);
+  font-size:35px;
+}
+p {
+  text-align:center;
+  font-size:22px;
+  font-style:italic;
+}
+label {
+  display:block;
+  margin-bottom:15px;
+}
+form {
+  width:600px;
+  margin:0 auto;
+  padding:30px;
+  background-color:rgb(154, 124, 13);
+  color:white;
+  font-size:18px;
+  max-width:800px;
+}
+fieldset {
+  border:0;
+  margin:5px;
+}
+input, select, textarea {
+  width:100%;
+  margin-top:3px;
+  border-radius:3px;
+  padding:5px;
+  border:3px solid rgb(79, 82, 7);
+  font-size:15px;
+}
+input[type="radio"] ,input[type="checkbox"]{
+  width:unset;
+}
+input[type="submit"] {
+  width:100%;
+  font-size:16px;
+  padding:10px;
+  background-color:rgb(25, 115, 199);
+  color:white;
+}
+input[type="submit"]:hover {
+  cursor:pointer;
+  background-color:rgb(22, 183, 75);
+}

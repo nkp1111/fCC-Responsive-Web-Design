@@ -1,6 +1,9 @@
 # Responsive-Web-Design
 
-This is my Responsive-Web-Design Project from freeCodeCamp.
+This projects are completed on freeCodeCamp website : https://www.freecodecamp.org/learn
+
 It consists of my html and css files
 
-It has 5 projects : html files, css files and image of the front.
+https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+Complete 5 Responsive Web Design certification projects.

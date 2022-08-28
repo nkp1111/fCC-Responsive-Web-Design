@@ -1,6 +1,7 @@
 # Responsive-Web-Design
 
-This projects are completed on freeCodeCamp website : https://www.freecodecamp.org/learn
+This projects are completed on freeCodeCamp website for **responsive web design** course : https://www.freecodecamp.org/learn
+This projects are 
 
 It consists of my html and css files
 
